@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+body{
+   height: 100%;
+   width: 100%;
+   background: rgb(34,193,195);
+   background: linear-gradient(4deg, rgba(34,193,195,1) 0%, rgba(119,57,235,0.7092086834733893) 0%, rgba(201,46,235,1) 68%);
+
+}
+
+.app{
+  height: 100%;
+  color: white;
+  
+}
+
